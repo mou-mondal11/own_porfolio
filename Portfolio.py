@@ -7,7 +7,7 @@ from PIL import Image
 current_dir = Path(_file_).parent if "_file_" in locals() else Path.cwd()
 css_file = current_dir / "style"/"main.css"
 resume_file = current_dir / "asset"/ "Resume.pdf"
-Profile_pic = current_dir / "asset "/"Mou.png"
+Profile_pic = current_dir / "asset"/ "Mou.png"
 
 Page_Title = "Digital CV | Mou Mondal"
 Page_Icon = ":wave:"
