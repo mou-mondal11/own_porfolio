@@ -34,7 +34,6 @@ rich
 six
 smmap
 streamlit
-streamlit-option-menu
 tenacity
 toml
 toolz
