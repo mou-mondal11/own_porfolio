@@ -26,6 +26,7 @@ Social_media = {
 }
 Projects = {
     "🏆"" Country GDP" : "https://mou-mondal11-country-eda-country-ac6o88.streamlit.app/",
+    "🏆"" Quick Checkup" : "https://mou-mondal11-quick-doctor-smart-doc-cz335d.streamlit.app/",
     "🏆 Virat Kohli Performance": "https://app.powerbi.com/groups/me/reports/dee825bc-07d4-4520-b6df-c284ad33cac0/ReportSection?experience=power-bi",
     "🏆 Netflix Dashboard" : "https://app.powerbi.com/groups/me/reports/e6d93abc-f5da-47db-99f4-94993e8ad388/ReportSection?experience=power-bi",
     "🏆 Customer Details" : "https://app.powerbi.com/groups/me/reports/9ca39536-8972-4e66-8c29-5a939a0b76cc/ReportSection?experience=power-bi",
